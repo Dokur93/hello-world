@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T09:48:38.196Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" version="17.1.2" etag="58FzzewwJHpB-BnpvjAu" type="github"><diagram id="UoX3IuOD-vShMSJupHUJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-12T09:51:26.423Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="KzZ57PIjwRIDuPyiu7E6" version="17.1.2" type="github">
+  <diagram id="UoX3IuOD-vShMSJupHUJ" name="Page-1">
+    <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IBgpSZEY-K9JlsKvirCF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IBgpSZEY-K9JlsKvirCF-1" target="IBgpSZEY-K9JlsKvirCF-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="422" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IBgpSZEY-K9JlsKvirCF-1" value="Başla" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="30" width="136" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IBgpSZEY-K9JlsKvirCF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IBgpSZEY-K9JlsKvirCF-3" target="IBgpSZEY-K9JlsKvirCF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IBgpSZEY-K9JlsKvirCF-3" value="Sayı1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IBgpSZEY-K9JlsKvirCF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IBgpSZEY-K9JlsKvirCF-4" target="IBgpSZEY-K9JlsKvirCF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IBgpSZEY-K9JlsKvirCF-4" value="Sayı1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IBgpSZEY-K9JlsKvirCF-7" value="Bitir" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="520" width="136" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IBgpSZEY-K9JlsKvirCF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IBgpSZEY-K9JlsKvirCF-9" target="IBgpSZEY-K9JlsKvirCF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IBgpSZEY-K9JlsKvirCF-9" value="Sayı1+Sayı2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
